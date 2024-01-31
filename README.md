@@ -11,8 +11,6 @@ such as gender, age, ticket class, customer loyalty, and whether the trip is for
 personal reasons, this model will aid in improving our robot’s performance to better cater to
 passengers’ needs.
 
-<img src="https://github.com/AichaSidiya/FileProcessing/blob/main/demoFiles.gif"/>
-
 <!--Header 2 description of the project-->
 ## Description
 
@@ -26,6 +24,13 @@ satisfaction levels. While the SVM and NN models exhibited
 higher true positive and true negatives values. After evaluating the models, we determined
 that the SVM and neural network models were the most effective, with both
 achieving nearly 96% accuracy and demonstrating similar ROC curves, while being more efficent then NN.
+
+## Results
+
+<img src="https://github.com/AichaSidiya/AirportSatisfactionPrediction/blob/main/LR_CM.png"/>
+<img src="https://github.com/AichaSidiya/AirportSatisfactionPrediction/blob/main/SVM_CM.png"/>
+<img src="https://github.com/AichaSidiya/AirportSatisfactionPrediction/blob/main/NN_CM.png"/>
+<img src="https://github.com/AichaSidiya/AirportSatisfactionPrediction/blob/main/ROC_Comparison.png"/>
 
 ## Built With
 * Python
